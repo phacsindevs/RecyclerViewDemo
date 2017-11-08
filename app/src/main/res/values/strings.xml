@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerVIewDemo</string>
+    <string name="email_text">Email</string>
+    <string name="password_text">Password</string>
+    <string name="remember_me_text">Remember Me</string>
+    <string name="submit_text">Submit</string>
+</resources>
